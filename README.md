@@ -10,7 +10,11 @@
 > o deploy da Api foi feita na Hospedagem Heroku
 > 
 > Obs: Uso da Api apenas para teste, não para uso comercial os icones e svg pertence a https://devicon.dev/
-
+> 
+ ### EndPoint
+ 
+ /ListIcons
+ Retorna todos Names e Svg de Icones em um Array de Objetos
 
  ### Recursos Usados
  
