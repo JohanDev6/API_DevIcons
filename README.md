@@ -13,7 +13,8 @@
 > 
  ### EndPoint
  
- /ListIcons
+ https://apidevicons.herokuapp.com/ListIcons
+ 
  Retorna todos Names e Svg de Icones em um Array de Objetos
 
  ### Recursos Usados
