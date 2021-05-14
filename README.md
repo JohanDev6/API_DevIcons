@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto API!
 
-> O Projeto uma Api Crawler construida com NodeJs e Express, a Api pega informações de um repositorio de Icons Tech SVG e retorna em Json IconName, SvgFormat
+> O Projeto uma Api Crawler construida com NodeJs e Express, a Api pega informações de um repositorio de Icons SVG e retorna em Json com; iconName, svgFormat.
 > o deploy da Api foi feita na Hospedagem Heroku
 > 
 > Obs: Uso da Api apenas para teste, não para uso comercial os icones e svg pertence a https://devicon.dev/
