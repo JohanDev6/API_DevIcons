@@ -24,8 +24,6 @@ exports.IconsList = function(req, res, err){
     var $ = cheerio.load(body);
     var $el = $('.Details-content--hidden-not-important .position-relative');
 
-  //  var SvgOriginal = $(this).find('.video-conteudo a').prop('href').split('/')[4]
-   // var SvgFill = $(this).find('.video-conteudo a').attr('title')
     $el.each(function(index, el){
 
         var Name = $(this).find('.col-md-2 span a').attr('title')
